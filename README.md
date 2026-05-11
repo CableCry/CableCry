@@ -31,7 +31,7 @@ I'm passionate about understanding how computers *really* work — from emulator
 ## 📬 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-CableCry-181717?style=flat-square&logo=github)](https://github.com/CableCry)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourname-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/caleb-terry-616b57235/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caleb-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/caleb-terry-616b57235/)
 ---
 
 <p align="center">
