@@ -1,24 +1,29 @@
-# 👋 Hey, I'm Caleb Terry
+# Hey, I'm Caleb 👋
 
-**Computer Systems Engineering student @ UGA | Low-level systems enthusiast | Building close to the metal**
+**I make things fast, then spend way too long figuring out why they're still slow.**
 
-I'm passionate about understanding how computers *really* work—from custom allocators and memory management to high-performance computing and system internals. I love writing code where performance, predictable memory layout, and hardware awareness matter most.
+```cpp
+constexpr Engineer caleb {
+    .school  = "UGA, Computer Systems Engineering, class of '29",
+    .team    = "Formula SAE, electronics & software",
+    .speaks  = {"C", "C++", "Rust", "Python"},
+    .habit   = "benchmarking things nobody asked me to benchmark",
+    .looking = "Summer 2027 internship: systems, embedded, perf",
+};
+```
 
----
+I like knowing what's actually happening under the hood: memory, caches, instruction sets,
+and the hardware the code ends up running on. Most of what I build starts with "how fast can
+this go?" and ends with a profiler open at 2 a.m.
 
-### 🛠️ Tech Stack & Tools
+On the **Formula SAE** team I work on the car's electronics, which means firmware, live data,
+and a lot of wires.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-### 📬 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-CableCry-181717?style=for-the-badge&logo=github)](https://github.com/CableCry)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caleb-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/caleb-terry-616b57235/)
+[LinkedIn](https://linkedin.com/in/caleb-b-terry) · [Website](https://cablecry.vercel.app)
